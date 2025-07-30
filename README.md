@@ -39,7 +39,7 @@ Whether you're a first-time mapper or a seasoned tinkerer, this guide aims to br
   - "Glue"
 
 - **Reference**
-  - Official docs links
+  - [Official Guides on Mod.io](https://mod.io/g/wizordum/r)
   - [Steam Store Page](https://store.steampowered.com/app/1715590/Wizordum/)
   - Discord
 
