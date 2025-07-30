@@ -10,19 +10,33 @@ A place to store "how to" guides and examples on using the Wizordum map editor t
 ## 🗺️ Sections
 
 - **Getting Started**
-  - Installing the map editor
   - Creating your first room
   - Saving and loading maps
+  - Map settings (name, description, theme..)
+  - more headings...
 
-- **Mapping Tips**
+- **Mapping Basics**
   - Object placement and alignment
-  - Triggers and interactions
-  - Common mistakes to avoid
+  - Floors, Walls, Half walls
+  - Transparant walls
+  - Secret Areas
+  - etc...
+  
+- **Advanced Tips & Tricks**
+  - Wall Setters
+  - Wall Towers
+  - Minecarts
+  - Barrel rides
+  - Wall Moving / Place swapping
+  - Teleports
+  - Massive Movers
+  - Massive Destroyer
+  - "Glue"
 
 - **Reference**
   - Official docs links
-  - Community tutorials
-  - Glossary of terms
+  - Steam page
+  - Discord
 
 ---
 
