@@ -40,7 +40,7 @@ Whether you're a first-time mapper or a seasoned tinkerer, this guide aims to br
 
 - **Reference**
   - Official docs links
-  - Steam page
+  - [Steam Store Page](https://store.steampowered.com/app/1715590/Wizordum/)
   - Discord
 
 ---
