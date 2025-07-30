@@ -1,8 +1,6 @@
 # Wizordum-mapping-guide
 
-A place to store "how to" guides and examples on using the Wizordum map editor to work in tandem with the official documentation. We aim to offer expanded guidance on topics that some new mappers might need more help understanding and also be a good reminder for old heads too! 🙂
-
-To begin with many section may not exist yet but will be added when time permits. If youd like to help out reach out to me on the wizordum discord.
+To begin with many section **may not exist yet** but will be added when time permits. If youd like to help out reach out to me on the wizordum discord.
 
 ![Example Map Screenshot](images/dummy-map-screenshot.png)  
 *Above: A placeholder screenshot—swap with a real one when ready!*
