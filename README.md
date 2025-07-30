@@ -20,7 +20,9 @@ Whether you're a first-time mapper or a seasoned tinkerer, this guide aims to br
   - Object placement and alignment
   - Floors, Walls, Half walls
   - Transparant walls
-  - Secret Areas
+  - Copy paste
+  - Additive load
+  - Place stacks not single blocks
   
 - **Advanced Tips & Tricks**
   - Wall Setters
