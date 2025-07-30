@@ -11,6 +11,7 @@ To begin with many section may not exist yet but will be added when time permits
 
 ## 🗺️ Sections
 - **Why this guide?**
+  
    See [Why this guide?](guides/why-this-guide.md) for more details.  
 - **Getting Started**
   - Creating your first room
