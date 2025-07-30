@@ -13,3 +13,7 @@ The last menu option "Flat edge" has four options you can cycle through by press
 ![simple block designs](/assets/wallcombo1.png)
 
 With a simple square room you can add more depth and style witha few simple additions using the corner walls to create pillars or to frame outcropping walls such as the bookcase. Simple additions can take a flat square room to some more interesting to the eye very quickly.
+
+![off grid pillar](/assets/wallcombo2.png)
+
+Corner walls nested together can create "off grid" columns or walls.
