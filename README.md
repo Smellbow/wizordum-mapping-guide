@@ -11,15 +11,9 @@ The official Wizordum development documentation is already an excellent foundati
 
 Whether you're a first-time mapper or a seasoned tinkerer, this guide aims to bridge gaps—clarifying what's unsaid, sharing discoveries, and offering insights born from hands-on experience. Think of it as a community companion to the dev docs.
 
-- **Getting Started**
-  - Creating your first room
-  - Map settings (name, description, theme..)
-  - Your style
-
 - **Mapping Basics**
-  - Object placement and alignment
   - Floors, Walls, Half walls
-  - Transparant walls
+  - Transparant / Projectile passing textures
   - Copy paste
   - Additive load
   - Place stacks not single blocks
