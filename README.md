@@ -47,10 +47,7 @@ Whether you're a first-time mapper or a seasoned tinkerer, this guide aims to br
 
 ## 📁 Downloads
 
-You can find downloadable example `.map` files in the [`maps/examples`](maps/examples) folder:
-- `intro-level.map`
-- `puzzle-room.map`
-- `boss-arena.map`
+You can find downloadable example `.map` files in the [`maps/examples`](maps/examples) folder. Each map will usually correspond to a guide page from the above sections.
 
 ---
 
