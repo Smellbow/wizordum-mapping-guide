@@ -16,6 +16,7 @@ The official Wizordum documentation is already an excellent foundation which you
   - Additive load
   - [Place stacks not single blocks](guides/stacking.md)
   - [Place blocks with a set texture](guides/blocktexture.md)
+  - [Testing the map](guides/testingmaps.md)
   
 - **Advanced Tips & Tricks**
   - Wall Setters
