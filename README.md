@@ -10,7 +10,7 @@ To begin with many section **may not exist yet** but will be added when time per
 The official Wizordum documentation is already an excellent foundation which you should read! This guide isn't here to reinvent the wheel. Instead, it's designed to **supplement** that documentation with practical nuances, real-world examples, and helpful tips from the community.
 
 - **Mapping Basics**
-  - Floors, Walls, Half walls
+  - [Floors, Walls, Half walls](guides/basicwalls.md)
   - Transparant / Projectile passing textures
   - Copy paste
   - Additive load
