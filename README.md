@@ -14,7 +14,7 @@ The official Wizordum documentation is already an excellent foundation which you
   - [Transparant / Projectile passing textures](guides/transp.md)
   - [Copy paste](guides/copypaste.md)
   - Additive load
-  - Place stacks not single blocks
+  - [Place stacks not single blocks](guides/stacking.md)
   
 - **Advanced Tips & Tricks**
   - Wall Setters
