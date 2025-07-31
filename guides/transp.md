@@ -7,4 +7,6 @@ When required you can place the purple crosshatch texture found within the textu
 
 If you want to create the same effect but allow projectiles to pass, use the yellow cross hatch texture.
 
-Note these will still block player movement.
+Note these will still block player movement but as shown below, do not render as visible in game.
+
+![in game view of texture](/assets/transp2.png)
