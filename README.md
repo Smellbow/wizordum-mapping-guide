@@ -12,7 +12,7 @@ The official Wizordum documentation is already an excellent foundation which you
 - **Mapping Basics**
   - [Floors, Walls, Half walls](guides/basicwalls.md)
   - [Transparant / Projectile passing textures](guides/transp.md)
-  - Copy paste
+  - [Copy paste](guides/copypaste.md)
   - Additive load
   - Place stacks not single blocks
   
