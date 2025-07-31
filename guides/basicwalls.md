@@ -17,3 +17,9 @@ With a simple square room you can add more depth and style witha few simple addi
 ![off grid pillar](/assets/wallcombo2.png)
 
 Corner walls nested together can create "off grid" columns or walls.
+
+![alcoves](/assets/wallcombo3.png)
+
+Middle walls create easy alcoves.
+
+The wall setter guide opens up more possibilities for differing wall shapes beyond the options available here.
