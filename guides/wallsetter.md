@@ -10,7 +10,7 @@ Wall setters allow you to exceed that limitation when desired, the same goes for
 
 Here we place an extra row of blocks along the top level of our wall example.
 
-IMG
+![normal blocks prepared](/assets/wallsetter2.png)
 
 Now we place Up wall layer setters on those blocks and configure their parameters for movement, Up and Forward.
 
@@ -20,8 +20,8 @@ Highlight a wall setter and use :
 C = forward movement adjust
 X = Upward movement adjust
 
-IMG
+![setters in place](/assets/wallsetter3.png)
 
 When a map loads wall setters activate. So here on map load we see those blocks move up and ontop of the wall, above the editor limit!
 
-IMG
+![In game view](/assets/wallsetter4.png)
