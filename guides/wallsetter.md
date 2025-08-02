@@ -36,16 +36,20 @@ Another neat feature with wall setters is their ability to "push" a spaces conte
 
 Say you have used a middle wall and an some edges to create a thin wall like this:
 
-![open thin wall missing an edge](/assets/wallsetter4.png)
+![open thin wall missing an edge](/assets/settermerge1.png)
 
 Youd might try cap the end with another half wall like so:
 
-![open thin wall missing an edge2](/assets/wallsetter4.png)
+![open thin wall missing an edge2](/assets/settermerge2.png)
 
 Only to find the editor wont allow this. This is where a wall setter can come in! 
 
 Place the capping edge int he adjacent space and add a wallsetter! This tells the game to move that spaces contents as configured by the setter on map load.
 
-![open thin wall missing an edge](/assets/wallsetter4.png)
+![open thin wall missing an edge](/assets/settermerge3.png)
 
-![open thin wall missing an edge](/assets/wallsetter4.png)
+We dont want it to move up or down, just across. So leave the up/down at zero and just set the movement amount.
+
+Then on game load we get a fully capped small wall!
+
+![open thin wall missing an edge](/assets/settermerge4.png)
