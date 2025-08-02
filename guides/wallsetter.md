@@ -27,3 +27,25 @@ Here we are saying, when the map loads I want you to move up one more space and 
 When a map loads wall setters activate. So here on map load we see those blocks move up and ontop of the wall, above the editor limit!
 
 ![In game view](/assets/wallsetter4.png)
+
+As the same applies for moving downwards also, a little imagination can create some unique spaces around the player.
+
+## Wall Layer Setters - Merge
+
+Another neat feature with wall setters is their ability to "push" a spaces contents into another, even if it has something in it already!
+
+Say you have used a middle wall and an some edges to create a thin wall like this:
+
+![open thin wall missing an edge](/assets/wallsetter4.png)
+
+Youd might try cap the end with another half wall like so:
+
+![open thin wall missing an edge2](/assets/wallsetter4.png)
+
+Only to find the editor wont allow this. This is where a wall setter can come in! 
+
+Place the capping edge int he adjacent space and add a wallsetter! This tells the game to move that spaces contents as configured by the setter on map load.
+
+![open thin wall missing an edge](/assets/wallsetter4.png)
+
+![open thin wall missing an edge](/assets/wallsetter4.png)
