@@ -53,3 +53,5 @@ We dont want it to move up or down, just across. So leave the up/down at zero an
 Then on game load we get a fully capped small wall!
 
 ![open thin wall missing an edge](/assets/settermerge4.png)
+
+You can do this with lots of combinations to create some neat architecture!
