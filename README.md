@@ -19,7 +19,7 @@ The official Wizordum documentation is already an excellent foundation which you
   - [Testing the map](guides/testingmaps.md)
   
 - **Advanced Tips & Tricks**
-  - Wall Setters
+  - [Wall Setters](guides/wallsetter.md)
   - Wall Towers
   - Minecarts
   - Barrel rides
