@@ -20,6 +20,8 @@ Highlight a wall setter and use :
 C = forward movement adjust
 X = Upward movement adjust
 
+Here we are saying, when the map loads I want you to move up one more space and move forward one space.
+
 ![setters in place](/assets/wallsetter3.png)
 
 When a map loads wall setters activate. So here on map load we see those blocks move up and ontop of the wall, above the editor limit!
