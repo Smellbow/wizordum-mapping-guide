@@ -28,6 +28,7 @@ The official Wizordum documentation is already an excellent foundation which you
   - Massive Movers
   - Massive Destroyer
   - "Glue"
+  - Enemy spawner types
 
 - **Reference**
   - [Official Guides on Mod.io](https://mod.io/g/wizordum/r)
