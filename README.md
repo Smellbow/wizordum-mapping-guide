@@ -39,13 +39,14 @@ The official Wizordum documentation is already an excellent foundation which you
 
 ## 📁 Downloads
 
+*none yet added!*
 You can find downloadable example `.map` files in the [`maps/examples`](maps/examples) folder. Each map will usually correspond to a guide page from the above sections.
 
 ---
 
 ## ✨ Contribute
 
-Got a cool trick or fix? Open a [pull request](https://github.com/Smellbow/wizordum-mapping-guide/pulls) or [issue](https://github.com/Smellbow/wizordum-mapping-guide/issues) to help others learn!
+Got a cool trick or fix? Let us know in Discord or if youd prefer an issue report in this github.
 
 ---
 
