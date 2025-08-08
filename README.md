@@ -20,7 +20,7 @@ The official [Wizordum documentation](https://mod.io/g/wizordum/r) is already an
   
 - **Advanced Tips & Tricks**
   - [Wall Setters](guides/wallsetter.md)
-  - Wall Towers
+  - [Wall Towers](guides/walltower.md)
   - Minecarts
   - Barrel rides
   - Wall Moving / Place swapping
