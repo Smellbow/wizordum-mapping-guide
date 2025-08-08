@@ -14,3 +14,13 @@ Using level start flags coupled with deactivators, you can trigger a movement pa
 In the above example a node actor is also directly underneath the wall block and wall tower actor. It is the first actor the tower is connected to and then the one further to the right. Upon level start this block will move from point to point forever.
 
 ![wall tower as a secret](/assets/walltower2.png)
+
+In the above example a wall tower has been set on a block, it has nodes under itself and two more to give it an K shaped travel path. 
+A level start flag is connected to a deactivator and then to the wall tower. This stops the wall tower from moving along its given path as soon as the map starts. 
+This means we can instead trigger it when we choose.
+
+In this case a player trigger spot is used to trigger the wall tower, which sets it along its path of nodes.
+
+The player trigger activtes the wall tower but also at the same time activates a timer. On the timers end it activates another deactivator also connected to the wall tower. 
+
+This allows the wall tower to complete its path once upon player trigger and then stop in place. With some careful setup this can be used to create all manner of moving blocks, secret doors and terrain shifting actions! 
