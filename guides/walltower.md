@@ -24,3 +24,5 @@ In this case a player trigger spot is used to trigger the wall tower, which sets
 The player trigger activtes the wall tower but also at the same time activates a timer. On the timers end it activates another deactivator also connected to the wall tower. 
 
 This allows the wall tower to complete its path once upon player trigger and then stop in place. With some careful setup this can be used to create all manner of moving blocks, secret doors and terrain shifting actions! 
+
+In this example, upon player trigger the wall with the tower actor wil move forward and then shift to the players left and stop. An alternate to the usual push wall or break wall actions.
