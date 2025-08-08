@@ -23,3 +23,9 @@ Corner walls nested together can create "off grid" columns or walls.
 Middle walls create easy alcoves.
 
 The wall setter guide opens up more possibilities for differing wall shapes beyond the options available here.
+
+![wall/ceiling types]()
+
+
+
+![]()
