@@ -24,8 +24,14 @@ Middle walls create easy alcoves.
 
 The wall setter guide opens up more possibilities for differing wall shapes beyond the options available here.
 
-![wall/ceiling types]()
+![wall/ceiling types](/assets/floors1.png)
 
+Using "X" to alter the floor or ceiling before placing you can adjust the size placed.
 
+![small floor parts](/assets/floors2.png)
 
-![]()
+Using the corner wall part and flat edge parts along with the small floor section you can create small columns.
+
+![small ceiling parts](/assets/floors3.png)
+
+The same applies to ceilings
