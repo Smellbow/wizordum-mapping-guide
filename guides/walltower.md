@@ -9,4 +9,4 @@ They can also be used to create moving walls / secret doors that move in more th
 
 Using level start flags coupled with deactivators, you can trigger a movement patter with a wall tower and nodes then deactivate it at a chosen point. (Wheyy used this to great effect to create doom IIs e1m1 stairway)
 
-!
+![wall tower basic]()
