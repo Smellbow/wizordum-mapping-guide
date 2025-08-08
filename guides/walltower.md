@@ -13,4 +13,4 @@ Using level start flags coupled with deactivators, you can trigger a movement pa
 
 In the above example a node actor is also directly underneath the wall block and wall tower actor. It is the first actor the tower is connected to and then the one further to the right. Upon level start this block will move from point to point forever.
 
-![wall tower as a secret]()
+![wall tower as a secret](/assets/walltower2.png)
