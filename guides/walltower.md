@@ -9,4 +9,8 @@ They can also be used to create moving walls / secret doors that move in more th
 
 Using level start flags coupled with deactivators, you can trigger a movement patter with a wall tower and nodes then deactivate it at a chosen point. (Wheyy used this to great effect to create doom IIs e1m1 stairway)
 
-![wall tower basic]()
+![wall tower basic](/assets/walltower1.png)
+
+In the above example a node actor is also directly underneath the wall block and wall tower actor. It is the first actor the tower is connected to and then the one further to the right. Upon level start this block will move from point to point forever.
+
+![wall tower as a secret]()
