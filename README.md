@@ -12,7 +12,7 @@ The official [Wizordum documentation](https://mod.io/g/wizordum/r) is already an
 - **Mapping Basics**
   - [Floors, Walls, Half walls](guides/basicwalls.md)
   - [Transparant / Projectile passing textures](guides/transp.md)
-  - [Copy paste](guides/copypaste.md)
+  - [Cut paste](guides/copypaste.md)
   - [Additive load](guides/additiveload.md)
   - [Place stacks not single blocks](guides/stacking.md)
   - [Place blocks with a set texture](guides/blocktexture.md)
