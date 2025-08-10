@@ -1,4 +1,4 @@
-You can move a section of your map around with a copy paste feature.
+You can move a section of your map around with a cut paste feature.
 
 You must do this in 1st Person mode (F1 to toggle)
 
