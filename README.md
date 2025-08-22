@@ -23,7 +23,7 @@ The official [Wizordum documentation](https://mod.io/g/wizordum/r) is already an
   - [Wall Towers](guides/walltower.md)
   - [Minecarts](guides/minecart.md)
   - [Barrel rides](guides/barrel.md)
-  - Wall Moving / Place swapping
+  - [Wall Moving / Place swapping](guides/wallswap.md)
   - Teleports
   - Massive Movers
   - Massive Destroyer
