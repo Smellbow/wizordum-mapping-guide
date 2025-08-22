@@ -4,4 +4,4 @@ Barrel rides work in the manner as minecarts, Place the barrel ride actor and co
 
 As with minecarts the last node can be added to by connecting another node, This will be where the player hops to when the ride ends.
 
-![Barrel ride](/assets/barr1)
+![Barrel ride](/assets/barr1.png)
