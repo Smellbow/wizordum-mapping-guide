@@ -13,4 +13,4 @@ In this example the minecart connects to a series of nodes in the order it shoul
 
 Also note that the last node has another node connected to it, this is where the player will land when "ejected" from the minecart. You can send the player to almost anywhere on exit and they will "hop" to that location. in this case the wooden tile.
 
-![mine cart nodes with elevation]()
+![mine cart nodes with elevation](/assets/mcart2.png)
