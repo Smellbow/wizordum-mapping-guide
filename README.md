@@ -22,7 +22,7 @@ The official [Wizordum documentation](https://mod.io/g/wizordum/r) is already an
   - [Wall Setters](guides/wallsetter.md)
   - [Wall Towers](guides/walltower.md)
   - [Minecarts](guides/minecart.md)
-  - Barrel rides
+  - [Barrel rides](guides/barrel.md)
   - Wall Moving / Place swapping
   - Teleports
   - Massive Movers
