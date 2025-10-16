@@ -37,13 +37,6 @@ The official [Wizordum documentation](https://mod.io/g/wizordum/r) is already an
 
 ---
 
-## 📁 Downloads
-
-*none yet added!*
-You can find downloadable example `.map` files in the [`maps/examples`](maps/examples) folder. Each map will usually correspond to a guide page from the above sections.
-
----
-
 ## ✨ Contribute
 
 Got a cool trick or fix? Let us know in Discord or if youd prefer an issue report in this github.
