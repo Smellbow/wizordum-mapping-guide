@@ -15,7 +15,7 @@ In the above example a node actor is also directly underneath the wall block and
 
 ![wall tower as a secret](/assets/walltower2.png)
 
-In the above example a wall tower has been set on a block, it has nodes under itself and two more to give it an K shaped travel path. 
+In the above example a wall tower has been set on a block, it has nodes under itself and two more to give it an L shaped travel path. 
 A level start flag is connected to a deactivator and then to the wall tower. This stops the wall tower from moving along its given path as soon as the map starts. 
 This means we can instead trigger it when we choose.
 
