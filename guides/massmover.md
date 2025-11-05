@@ -24,3 +24,7 @@ With the trigger set to activate the movers and the movers pointed to new positi
 With some effort you can hook up sequences of moving terrain with sounds fx and visual fx. Be careful when moving terrain around the active player position as this can nudge the player in some scenarios. Be sure to test!
 
 ![mass movers](/assets/massmove5.png)
+
+The mover will bring over blocks above it as well, as shown below. Also making use of "loot glue" you can move across items for the player. Like surprise treasure! 
+
+![mass movers](/assets/massmove6.png)
