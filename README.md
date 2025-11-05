@@ -25,7 +25,7 @@ The official [Wizordum documentation](https://mod.io/g/wizordum/r) is already an
   - [Barrel rides](guides/barrel.md)
   - [Wall Moving / Place swapping](guides/wallswap.md)
   - [Teleports](guides/teleport.md)
-  - Massive Movers
+  - [Massive Movers](guides/massmove.md)
   - Massive Destroyer
   - "Glue"
   - Enemy spawner types
