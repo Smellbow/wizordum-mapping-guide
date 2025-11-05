@@ -24,7 +24,7 @@ The official [Wizordum documentation](https://mod.io/g/wizordum/r) is already an
   - [Minecarts](guides/minecart.md)
   - [Barrel rides](guides/barrel.md)
   - [Wall Moving / Place swapping](guides/wallswap.md)
-  - Teleports
+  - [Teleports](guides/teleport.md)
   - Massive Movers
   - Massive Destroyer
   - "Glue"
