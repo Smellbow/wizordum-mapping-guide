@@ -11,3 +11,9 @@ The directional arrow at the bast of the teleport will be the direction the play
 Selecting a teleport actor and pressing "TAB" will open the ambient settings, so you can adjust the ambients of a map on teleport.
 
 ![Teleport ambient](/assets/teleport2.png)
+
+Teleports can be set to go between each other or just one way by pointing one teleport actor to a simple node.
+
+In the below example the player will be teleporte to the node, will not be able to teleport back to the original spot and will be facing the textured wall part on arrival.
+
+![Teleport one way](/assets/teleport3.png)
