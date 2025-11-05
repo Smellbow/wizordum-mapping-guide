@@ -32,4 +32,10 @@ If you make a mistake remember you can shift-right click to undo a connection or
 
 ![mine cart nodes setup 2](/assets/minecart5.png)
 
+Controllers pointing to the cart. So they are triggered by the nodes pointing to them and then in turn they point to the cart to impact.
+
+(Note i also added another node at the start to the left of the cart, the cart will face the direction of its first node)
+
 ![mine cart nodes setup 2](/assets/minecart6.png)
+
+Now when the player rides the cart, at the set points its speed will adjust accordingly.
