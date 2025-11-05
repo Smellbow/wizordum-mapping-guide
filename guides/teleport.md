@@ -14,6 +14,6 @@ Selecting a teleport actor and pressing "TAB" will open the ambient settings, so
 
 Teleports can be set to go between each other or just one way by pointing one teleport actor to a simple node.
 
-In the below example the player will be teleporte to the node, will not be able to teleport back to the original spot and will be facing the textured wall part on arrival.
+In the below example the player will be teleported to the node, will not be able to teleport back to the original spot and will be facing the textured wall part on arrival.
 
 ![Teleport one way](/assets/teleport3.png)
