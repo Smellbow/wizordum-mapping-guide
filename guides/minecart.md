@@ -26,3 +26,8 @@ The cart is not yet wired up.
 
 ![mine cart nodes setup](/assets/minecart4.png)
 
+Next we have pointed the nodes at which we want to impact the carts speed to some minecart controllers with speed set as desired. The controllers then also need to point to the cart.
+
+If you make a mistake remember you can shift-right click to undo a connection or if youre lost its often easier to delete the minecart and re-wire it to the nodes.
+
+![mine cart nodes setup 2](/assets/minecart5.png)
