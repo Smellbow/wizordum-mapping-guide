@@ -29,6 +29,8 @@ The official [Wizordum documentation](https://mod.io/g/wizordum/r) is already an
   - [Massive Destroyer](guides/massdestroy.md)
   - "Glue"
   - Enemy spawner types
+  - Spawn "waves"
+  - Shade textures / copy paste shade
 
 - **Reference**
   - [Official Guides on Mod.io](https://mod.io/g/wizordum/r)
