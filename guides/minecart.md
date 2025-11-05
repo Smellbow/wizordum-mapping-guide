@@ -14,3 +14,15 @@ In this example the minecart connects to a series of nodes in the order it shoul
 Also note that the last node has another node connected to it, this is where the player will land when "ejected" from the minecart. You can send the player to almost anywhere on exit and they will "hop" to that location. in this case the wooden tile.
 
 ![mine cart nodes with elevation](/assets/mcart2.png)
+
+
+## Minecart controllers
+
+You an also use minecart controllers to ... well.. control the minecart at points in your track. We can impact the speed from its default using them.
+
+Here is a simple loop. We have a series of nodes set up with the final node pointing to where we would like the player to "land" when they are booted out the cart at the end of the ride.
+
+The cart is not yet wired up.
+
+![mine cart nodes setup](/assets/minecart4.png)
+
